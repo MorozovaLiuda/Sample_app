@@ -1,0 +1,16 @@
+one:
+  follower: liuda
+  followed: lana
+
+two:
+  follower: liuda
+  followed: malory
+
+three:
+  follower: lana
+  followed: liuda
+
+four:
+  follower: liza
+  followed: liuda
+
